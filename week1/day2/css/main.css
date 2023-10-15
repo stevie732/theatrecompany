@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+    
+    
+    h4 {
+    color: rgb(255, 11, 226);
+}
+
+p {
+    color: red;
+}
+
+
+.text  {
+    color: pink;
+}
+#first-ele {
+    color: brown;
+}
+
+h5:hover {
+    color: greenyellow;
+}
+
+p:active {
+    color: orange;
+}
+
+header > h5 {
+    color: red;
+}

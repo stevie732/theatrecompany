@@ -1,0 +1,25 @@
+.my-navbar{
+    background-color:burlywood;
+}
+
+form{
+    max-width: 500px;
+    width: 40%;
+    min-width: 400px;
+    border: 1px solid rgb(red, green, blue);
+    border-radius: 1.5%;
+    padding: 2%;
+    margin: 10vh auto 0 auto;
+}
+
+
+.my-btn{
+    background-color: rgb(red, green, blue);
+    color: white;
+}
+
+
+.my-btn:hover {
+    background-color: rgba(red, green, blue, alpha);
+    color: white;
+}
